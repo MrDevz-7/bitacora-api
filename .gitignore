@@ -1,0 +1,21 @@
+# Dependencias y artefactos de build
+node_modules/
+dist/
+coverage/
+*.tsbuildinfo
+
+# Secretos: NUNCA versionar. Solo .env.example
+.env
+.env.*
+!.env.example
+
+# Logs y temporales
+*.log
+logs/
+tmp/
+
+# Editor / SO
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db

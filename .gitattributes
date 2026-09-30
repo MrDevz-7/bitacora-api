@@ -1,0 +1,2 @@
+# Fuerza LF en todo el repo (evita CRLF rompiendo scripts .sh y Docker en Windows).
+* text=auto eol=lf
